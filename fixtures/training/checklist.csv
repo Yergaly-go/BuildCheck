@@ -1,0 +1,2 @@
+id,text,mandatory,evidence_type
+REQ-NCR-014,Все блокирующие замечания должны быть закрыты до проверки готовности к бетонированию.,true,control_document
