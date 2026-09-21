@@ -1,0 +1,24 @@
+# Python environments and bytecode
+venv/
+.venv/
+env/
+ENV/
+__pycache__/
+*.py[cod]
+
+# Test and tool caches
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Local configuration and secrets
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+
+# Generated runtime artifacts
+runtime/
+artifacts/
+uploads/
+*.log
